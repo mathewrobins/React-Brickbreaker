@@ -1,11 +1,11 @@
-import { useState } from 'react'
+// import { useState } from 'react'
 import './App.css'
-import Canvas from './Canvas'
+import Canvas from '../components/Canvas'
 
 
 
 function App() {
-  const [count, setCount] = useState(0)
+  // const [count, setCount] = useState(0)
 
   return (
     <>
